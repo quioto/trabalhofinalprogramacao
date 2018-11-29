@@ -1,0 +1,18 @@
+    Carro
+Modelo: Meriva
+Marca: Chevrolet
+Ano: 2010
+Estado usado
+Placa: 1234
+Preço de Compra: 20000.0
+Preço de Venda: 20000.0
+Lucro: 0.0
+
+    Comprador
+Nome: Jp
+CPF: 123
+
+    Vendedor
+Nome: Luis
+CPF: 123
+Matrícula: 123
